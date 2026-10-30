@@ -17,5 +17,24 @@
       }
     ],
     "requireAcknowledge": true
+  },
+  {
+    "id": "eragfewfserfsdsdfsdfsfdadas",
+    "priority": 9,
+    "activeFrom": "2026-10-30T22:44:00.000Z",
+    "activeTo": "2026-10-31T00:44:00.000Z",
+    "header": {
+      "title": "adesadsads",
+      "subtitle": "asdasdasdasd"
+    },
+    "bodyHtml": "",
+    "buttons": [
+      {
+        "id": "dismiss",
+        "label": "Got it",
+        "action": "dismiss"
+      }
+    ],
+    "requireAcknowledge": true
   }
 ]
