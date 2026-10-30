@@ -1,8 +1,10 @@
 {
-  "configVersion": "2026-10-30T10:07:44.583Z",
+  "configVersion": "2026-10-30T22:37:40.272Z",
+  "updatedAt": "2026-10-30T22:37:40.404Z",
   "files": {
     "global": "global.json",
     "features": "features.json",
-    "campaigns": "campaigns.json"
+    "campaigns": "campaigns.json",
+    "remoteTheme": "remoteTheme.json"
   }
 }
