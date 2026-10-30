@@ -1,18 +1,1 @@
-{
-  "page.home": {
-    "mode": "block",
-    "message": {
-      "title": "Were dead",
-      "body": "this brokie",
-      "severity": "error"
-    }
-  },
-  "plugin.profile-picture": {
-    "mode": "block",
-    "message": {
-      "title": "wasadsasd",
-      "body": "asdasdasd",
-      "severity": "info"
-    }
-  }
-}
+{}
