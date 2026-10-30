@@ -1,0 +1,12 @@
+{
+  "mode": "on",
+  "allowLocalOverride": true,
+  "statusMessage": null,
+  "maintenance": null,
+  "minExtensionVersion": null,
+  "forceUpdateUrl": null,
+  "disableCloudSync": false,
+  "disableThemeStore": false,
+  "disableFeedbackSubmit": false,
+  "hostnamePolicy": null
+}
