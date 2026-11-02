@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "camp_1f9b6198317d4073aedb",
+    "priority": 7,
+    "activeFrom": "2026-11-02T22:30:00.000Z",
+    "activeTo": "2026-11-03T22:30:00.000Z",
+    "header": {
+      "title": "gdfz",
+      "subtitle": "sda"
+    },
+    "bodyHtml": "<p>tfdxzedfdf</p>",
+    "buttons": [
+      {
+        "id": "dismiss",
+        "label": "Got it",
+        "action": "dismiss"
+      }
+    ],
+    "requireAcknowledge": true
+  }
+]
