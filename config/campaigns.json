@@ -1,14 +1,14 @@
 [
   {
-    "id": "camp_1f9b6198317d4073aedb",
-    "priority": 7,
+    "id": "camp_ee9a1375df844cf58d92",
+    "priority": 4,
     "activeFrom": "2026-11-02T22:30:00.000Z",
     "activeTo": "2026-11-03T22:30:00.000Z",
     "header": {
-      "title": "gdfz",
-      "subtitle": "sda"
+      "title": "Hello Jones",
+      "subtitle": "I know you instance.."
     },
-    "bodyHtml": "<p>tfdxzedfdf</p>",
+    "bodyHtml": "<p>See Jones it was always i win, but you won since <strong>i merged your PR</strong></p><p></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-green-400 underline decoration-green-400/30 hover:decoration-green-400 transition-all\" href=\"https://github.com/BetterSEQTA/BetterSEQTA-Plus/pull/497\">see it here lil bro</a></p>",
     "buttons": [
       {
         "id": "dismiss",
@@ -16,6 +16,10 @@
         "action": "dismiss"
       }
     ],
-    "requireAcknowledge": true
+    "requireAcknowledge": true,
+    "hero": {
+      "type": "image",
+      "url": "https://betterseqta.org/api/images/1765146698568-Gemini_Generated_Image_966oa8966oa8966o.png"
+    }
   }
 ]
